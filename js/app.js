@@ -31,7 +31,7 @@ function setSearchKeyRender(key, resultLength) {
 
 //Llamada ajax a un archivo JSON a nivel local.
 function loadData() {
-    const urlLocal = `/data/data.json`;
+    const urlLocal = `https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/data/data.json`;
     
 
     //Llamada AJAX
