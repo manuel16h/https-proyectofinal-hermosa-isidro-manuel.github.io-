@@ -1,0 +1,96 @@
+[{
+	"id" : "1",
+	"brand" : "Iphone",
+	"model" : "7 Plus negro",
+	"description" : "5,9 pulgadas. IOS 16. 2.8GHz",
+	"price" : 5000,
+	"img" : "/img/celu1.png"
+},
+{
+	"id" : "2",
+	"brand" : "Iphone",
+	"model" : "8 rojo",
+	"description" : "6 pulgadas. IOS 16.3",
+	"price" : 5500,
+	"img" : "/img/celu2.png"
+},
+{
+	"id" : "3",
+	"brand" : "Samsung",
+	"model" : "Galaxy S20",
+	"description" : "6,2 pulgadas. Android Oreo. Snapdragon 865.",
+	"price" : 5400,
+	"img" : "/img/celu3.jpg"
+},
+{
+	"id" : "4",
+	"brand" : "Motorola",
+	"model" : "G6 Plus",
+	"description" : "5,9 pulgadas. Android Oreo. 2.2GHz Snapdragon 630",
+	"price" : 3700,
+	"img" : "/img/celu4.jpg"
+},
+{
+	"id" : "5",
+	"brand" : "Iphone",
+	"model" : "10 negro",
+	"description" : "6,4 pulgadas. IOS 17. 2.84GHz",
+	"price" : 6200,
+	"img" : "/img/celu5.png"
+},
+{
+	"id" : "6",
+	"brand" : "LG",
+	"model" : "G8S ThingQ",
+	"description" : "6,2 pulgadas. Android. Procesador de 8 núcleos a 2.0GHz.",
+	"price" : 2900,
+	"img" : "/img/celu6.jpg"
+},
+{
+	"id" : "7",
+	"brand" : "Iphone",
+	"model" : "11 pul Gold",
+	"description" : "6,2 pulgadas. IOS 17. 32GB.",
+	"price" : 8700,
+	"img" : "/img/celu7.png"
+},
+{
+	"id" : "8",
+	"brand" : "Motorola",
+	"model" : "Z3 Play",
+	"description" : "6 pulgadas. Android Oreo. Snapdragon 636",
+	"price" : 3550,
+	"img" : "/img/celu8.jpg"
+},
+{
+	"id" : "9",
+	"brand" : "Samsung",
+	"model" : "Galaxy S10 Plus",
+	"description" : "6,4 pulgadas. Android Oreo. 2.84GHz Snapdragon 855",
+	"price" : 7800,
+	"img" : "/img/celu9.jpg"
+},
+{
+	"id" : "10",
+	"brand" : "Iphone",
+	"model" : "12 Plus blue",
+	"description" : " 6,2 pulgadas. IOS 17. Procesador de 8 núcleos a 3.0GHz.",
+	"price" : 9200,
+	"img" : "/img/celu10.png"
+},
+{
+	"id" : "11",
+	"brand" : "Iphone",
+	"model" : "13 plus gris",
+	"description" : "6,2 pulgadas. IOS 17. 32GB.",
+	"price" : 13800,
+	"img" : "/img/celu11.png"
+},
+{
+	"id" : "12",
+	"brand" : "LG",
+	"model" : "Q60",
+	"description" : " 6,2 pulgadas. Android Oreo. Procesador de 8 núcleos a 2.0GHz.",
+	"price" : 6100,
+	"img" : "/img/celu12.jpg"
+}]
