@@ -1,20 +1,20 @@
-var searchBoxInput;
-var searchKey;
-var searchResultLength;
-var searchButton;
-var formSearch;
-var searchResume;
-var products;
-var totalContainer;
-var totalPrice;
-var productIndex;
-var data;
-var buyButton;
+let searchBoxInput;
+let searchKey;
+let searchResultLength;
+let searchButton;
+let formSearch;
+let searchResume;
+let products;
+let totalContainer;
+let totalPrice;
+let productIndex;
+let data;
+let buyButton;
 
 // Obtengo el valor de lo ingresado por input
 function getSearchBoxValue(event) {
-    var searchBoxInputValue = searchBoxInput.val();
-    var searchResult = products.search(searchBoxInputValue);
+    let searchBoxInputValue = searchBoxInput.val();
+    let searchResult = products.search(searchBoxInputValue);
 
     if (searchBoxInputValue.trim() !== '') {
         setSearchKeyRender(searchBoxInputValue, searchResult.length);
@@ -31,7 +31,8 @@ function setSearchKeyRender(key, resultLength) {
 
 //Llamada ajax a un archivo JSON a nivel local.
 function loadData() {
-    var urlLocal = `http://127.0.0.1:3000/data/data.json`;
+    const urlLocal = '../Proyecto Final/data/data.json';
+    
 
     //Llamada AJAX
     $.ajax({
@@ -47,7 +48,7 @@ function loadData() {
 
 //Agrego un elemento al carrito
 function addToCart(id) {
-    var product = products.getById(id)[0];
+    let product = products.getById(id)[0];
     shoppingCart.add(product);
     shoppingCart.showTotal('total-container');
     $('#aside').show('slow');

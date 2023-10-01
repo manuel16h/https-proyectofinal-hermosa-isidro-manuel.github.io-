@@ -51,9 +51,9 @@ function Products() {
     }
 
     this.buildList = function(containerId, sourceData) {
-        var container = document.getElementById(containerId);
+        let container = document.getElementById(containerId);
         container.innerHTML = '';
-        var html = '';
+        let html = '';
 
         this[sourceData].forEach(product => {
             html = html + this.buildHtmlProduct(product); 

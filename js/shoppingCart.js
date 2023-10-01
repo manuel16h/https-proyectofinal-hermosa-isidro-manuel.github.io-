@@ -30,9 +30,9 @@ function ShoppingCart() {
 
     // Método buildList
     this.buildList = function () {
-        var html = '';
+        let html = '';
         this.cart.forEach(function (product, index) {
-            var counter = index + 1;
+            let counter = index + 1;
             html = html + `<li class="list-group-item">
                             <span>
                             <button id="remove" class="btn btn-danger" onclick="removeFromCart(${index})">x</button>
@@ -47,9 +47,9 @@ function ShoppingCart() {
 
     //Método buildCart
     this.buildCart = function (containerId) {
-        var container = document.getElementById(containerId);
+        let container = document.getElementById(containerId);
         container.innerHTML = "";
-        var html = `
+        let html = `
             <h5>Carrito de compras (${this.cart.length})</h5>
             <ul class="list-group my-3">
                 ${this.buildList()}
@@ -61,13 +61,13 @@ function ShoppingCart() {
 
     //Método showTotal
     this.showTotal = function (containerId) {
-        var total = 0;
+        let total = 0;
         this.cart.forEach(function (product) {
             total = total + product.price;
         });
-        var container = document.getElementById(containerId);
+        let container = document.getElementById(containerId);
         container.innerHTML = "";
-        var html = `<div class="my-5">
+        let html = `<div class="my-5">
                     <h3 class="total">$${total}</h3>
                     </div>`
         container.innerHTML = html;
