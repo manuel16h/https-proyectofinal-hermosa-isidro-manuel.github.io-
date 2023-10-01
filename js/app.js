@@ -31,7 +31,7 @@ function setSearchKeyRender(key, resultLength) {
 
 //Llamada ajax a un archivo JSON a nivel local.
 function loadData() {
-    const urlLocal = `https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/data/data.json`;
+    const urlLocal =  `https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/data/data.json`; //`./data.json`; 
     
 
     //Llamada AJAX
@@ -42,10 +42,12 @@ function loadData() {
         products.init(data);
         products.buildList('products-container', 'data');
     }).fail(function (error) {
-        console.log(error);
+       console.log(error);
     });
 
  //fetch("./data.json").then((res)=> res.json()).then((res)=>console.log(`desde json`,res));
+
+
 
 }
 

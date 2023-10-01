@@ -4,7 +4,7 @@
 	"model" : "7 Plus negro",
 	"description" : "5,9 pulgadas. IOS 16. 2.8GHz",
 	"price" : 5000,
-	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu1.png"
+	"img" : "./img/celu10.png"
 },
 {
 	"id" : "2",
@@ -20,7 +20,7 @@
 	"model" : "Galaxy S20",
 	"description" : "6,2 pulgadas. Android Oreo. Snapdragon 865.",
 	"price" : 5400,
-	"img" : "/img/celu3.jpg"
+	"img" : "./img/celu3.jpg"
 },
 {
 	"id" : "4",
