@@ -4,7 +4,7 @@
 	"model" : "7 Plus negro",
 	"description" : "5,9 pulgadas. IOS 16. 2.8GHz",
 	"price" : 5000,
-	"img" : "/img/celu1.png"
+	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu1.png"
 },
 {
 	"id" : "2",
@@ -12,7 +12,7 @@
 	"model" : "8 rojo",
 	"description" : "6 pulgadas. IOS 16.3",
 	"price" : 5500,
-	"img" : "/img/celu2.png"
+	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu2.png"
 },
 {
 	"id" : "3",

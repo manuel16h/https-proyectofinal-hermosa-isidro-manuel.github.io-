@@ -44,6 +44,9 @@ function loadData() {
     }).fail(function (error) {
         console.log(error);
     });
+
+ //fetch("./data.json").then((res)=> res.json()).then((res)=>console.log(`desde json`,res));
+
 }
 
 //Agrego un elemento al carrito
