@@ -1,0 +1,47 @@
+.titulo1 {
+	color: rgb(33, 33, 160);
+	text-decoration: none;
+	font-size: 50px;
+	font-weight: bolder;
+
+}
+
+#navbarNav {
+	justify-content: center;
+}
+
+h1,
+h2 {
+	font-family: 'Cairo', sans-serif;
+}
+
+.container {
+
+	justify-content: center;
+
+}
+
+.btn-primary {
+	background: rgb(1, 4, 60);
+}
+
+.btn-primary:disabled {
+	background: #d70a0a;
+	color: black;
+}
+
+.list-item {
+	list-style: none;
+}
+
+#aside,
+#checkout {
+	display: none;
+}
+
+footer {
+
+	background-color: rgb(208, 208, 208);
+	display: flex;
+	justify-content: center;
+}
