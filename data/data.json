@@ -20,7 +20,7 @@
 	"model" : "Galaxy S20",
 	"description" : "6,2 pulgadas. Android Oreo. Snapdragon 865.",
 	"price" : 5400,
-	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu3.png"
+	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu3.JPG"
 },
 {
 	"id" : "4",
@@ -28,7 +28,7 @@
 	"model" : "G6 Plus",
 	"description" : "5,9 pulgadas. Android Oreo. 2.2GHz Snapdragon 630",
 	"price" : 3700,
-	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu4.png"
+	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu4.JPG"
 },
 {
 	"id" : "5",
@@ -44,7 +44,7 @@
 	"model" : "G8S ThingQ",
 	"description" : "6,2 pulgadas. Android. Procesador de 8 núcleos a 2.0GHz.",
 	"price" : 2900,
-	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu6.png"
+	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu6.JPG"
 },
 {
 	"id" : "7",
@@ -60,7 +60,7 @@
 	"model" : "Z3 Play",
 	"description" : "6 pulgadas. Android Oreo. Snapdragon 636",
 	"price" : 3550,
-	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu8.png"
+	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu8.JPG"
 },
 {
 	"id" : "9",
@@ -68,7 +68,7 @@
 	"model" : "Galaxy S10 Plus",
 	"description" : "6,4 pulgadas. Android Oreo. 2.84GHz Snapdragon 855",
 	"price" : 7800,
-	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu9.png"
+	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu9.JPG"
 },
 {
 	"id" : "10",
@@ -92,5 +92,5 @@
 	"model" : "Q60",
 	"description" : " 6,2 pulgadas. Android Oreo. Procesador de 8 núcleos a 2.0GHz.",
 	"price" : 6100,
-	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu12.png"
+	"img" : "https://manuel16h.github.io/https-proyectofinal-hermosa-isidro-manuel.github.io-/img/celu12.JPG"
 }]
